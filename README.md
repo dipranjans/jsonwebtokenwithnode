@@ -6,9 +6,9 @@
 
 simple steps followed:
 
-<strong>git clone https://github.com/diptiranjans/jsonwebtokenwithnode.git</strong>
-<strong>npm install</strong>
-<strong>npm start</strong>
+<strong>git clone https://github.com/diptiranjans/jsonwebtokenwithnode.git</strong><br />
+<strong>npm install</strong><br />
+<strong>npm start</strong><br />
 
 it will start in localhost:3000
 
